@@ -8,6 +8,10 @@ In this report we present the results of a comprehensive survey of 101 agricultu
 
 [Download Report (pdf)](https://github.com/simpson-lab/dugout-data-report-june-2018/raw/master/Greenhouse-Gas-Fluxes-from-Small-Agricultural-Ponds-in-the-Northern-Great-Plains.pdf)
 
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 # References
 
 Finlay, K., P.R. Leavitt, A. Patoine, B. Wissel. 2010. Magnitudes and controls of organic and inorganic carbon flux through a chain of hard-water lakes on the northern Great Plains. *Limnology and Oceanography*, **55**(4):1551&ndash;1564.
